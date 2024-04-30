@@ -88,6 +88,12 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Mais informações sobre o Git e GitHub
+
+- [diferença entre Git e GitHub](https://www.youtube.com/watch?v=DqTITcMq68k&t=1s)
+- [Git para iniciantes](https://www.youtube.com/watch?v=P9xXbEhqhqA)
+- [principais comandos do Git](https://www.youtube.com/watch?v=Zwv9qRyVeU4&t=3s)
+
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
